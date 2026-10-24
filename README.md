@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE259,100:FFC107&height=220&section=header&text=Melissa%20Rom%C3%A3o&fontSize=52&fontColor=333333&fontAlignY=38&desc=Desenvolvedora%20Jr.%20%7C%20Tutora%20de%20Programa%C3%A7%C3%A3o&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Melissa Romão"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=D4A100&center=true&vCenter=true&width=700&lines=Do+it+to+be+ready!+%F0%9F%92%9B;Python+%7C+Linux+%7C+Git+%7C+Cloud;Estudante+de+Desenvolvimento+de+Software+Multiplataforma;Ensinando+crian%C3%A7as+e+jovens+a+programar" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE259,100:FFC107&height=220&section=header&text=Melissa%20Rom%C3%A3o&fontSize=52&fontColor=333333&fontAlignY=38&desc=DevOps%20%20%7C%20Suporte%20%7C%20Tutora%20de%20Programa%C3%A7%C3%A3o&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Melissa Romão"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melissaromao">
@@ -17,11 +13,11 @@
 ## 👩‍💻 Sobre mim
 
 Oi, eu sou a **Melissa**! 👋
-- 📚 Sou estudante de **Desenvolvimento de Software Multiplataforma**, me aprofundando em desenvolvimento!
+- 📚 Sou estudante de **Desenvolvimento de Software Multiplataforma**.
 - 🔭 Atuo como **Monitora de Iniciação Científica** (CCD-SB100), apoiando squads em infraestrutura computacional e banco de dados.
 - 👩‍🏫 Sou **Tutora de Programação na Kodland Latinoamérica**, ensinando Python, Scratch e criação de jogos web com IA (HTML, CSS e JS)
-- ☁️ Estou aprofundando meus estudos em nuvem com AWS, Azure e GCP.
-- ✨ Gosto de DevOps e Vibe Coding, conhecendo sempre novas ferramentas.
+- ☁️ Estou aprofundando meus estudos em Cloud, DevOps e infraestrutura com AWS, Azure e GCP.
+- ✨ Possuo experiência prática com Vibe Coding, conhecendo sempre novas ferramentas e aplicando em projetos.
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -52,7 +48,7 @@ Oi, eu sou a **Melissa**! 👋
 
 ## 📫 Vamos conversar?
 
-Estou em busca de oportunidades como **desenvolvedora júnior**, em formato presencial, híbrido ou remoto. Se você curte tecnologia, ensino, DevOps ou nuvem, vamos trocar uma ideia!
+Estou em busca de oportunidades de nível **Assistente e Júnior** em **Application Support, DevOps e SRE**, em formato presencial, híbrido ou remoto. Gostou do perfil? Me envie uma mensagem. Vamos trocar uma ideia!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melissaromao">
