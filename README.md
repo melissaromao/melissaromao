@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE259,100:FFC107&height=220&section=header&text=Melissa%20Rom%C3%A3o&fontSize=52&fontColor=333333&fontAlignY=38&desc=DevOps/SRE%20%20%7C%20Suporte%20%7C%20Tutora%20de%20Programa%C3%A7%C3%A3o&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Melissa Romão"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE259,100:FFC107&height=220&section=header&text=Melissa%20Rom%C3%A3o&fontSize=52&fontColor=333333&fontAlignY=38&desc=Tutora%20de%20Programa%C3%A7%C3%A3o&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Melissa Romão"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melissaromao">
@@ -48,7 +48,7 @@ Oi, eu sou a **Melissa**! 👋
 
 ## 📫 Vamos conversar?
 
-Estou em busca de oportunidades de nível **Assistente e Júnior** em **Application Support, DevOps e SRE**, em formato presencial, híbrido ou remoto. Gostou do perfil? Me envie uma mensagem. Vamos trocar uma ideia!
+Gostou do perfil? Me envie uma mensagem. Vamos trocar uma ideia!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melissaromao">
